@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Waqas</h1>
 <h3 align="center">A passionate Agentic AI & Full-Stack developer from Pakistan</h3>
 
-
-<img align="right" alt="developer" width="450" src="https://miro.medium.com/1*lhOax3cZATGZwEhG0uTYRA.gif">
+<img align="right" alt="developer" width="400" src="https://miro.medium.com/1*lhOax3cZATGZwEhG0uTYRA.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwaqas-rajpoot&label=Profile%20views&color=0e75b6&style=flat" alt="mwaqas-rajpoot" /> </p>
 
@@ -12,9 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<a href="https://linkedin.com/in/muhammad-waqas-8a486a267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad waqas" height="30" width="40" /></a>
+<a href="https://fb.com/1GNrHkrDx3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad waqas" height="30" width="40" /></a>
 <a href="https://twitter.com/muhammad waqas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhammad waqas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad waqas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad waqas" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad waqas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad waqas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
